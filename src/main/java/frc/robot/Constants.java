@@ -60,4 +60,8 @@ public class Constants {
         public static final double halfStow = PIVOT_ANGLE_UP_STOWED*1/2;
     }
     
+    public static class Floor
+    {
+        public static final double SPEED_TOLERANCE_RPS = 0.5;
+    }
 }
